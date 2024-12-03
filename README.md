@@ -13,7 +13,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y los pro
 ---
 
 ## ⚡ Intereses
-- 💻 Desarrollo de aplicaciones (iOS con Swift).
+- 💻 Desarrollo de aplicaciones .
 - ⚽ Fútbol, mi pasión desde la infancia.
 - 🌍 Viajar y explorar nuevas culturas.
 
