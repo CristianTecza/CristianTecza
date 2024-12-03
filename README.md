@@ -37,6 +37,9 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y los pro
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianTecza&layout=compact&theme=radical)
+
+
 
 
 
