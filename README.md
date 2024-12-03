@@ -20,7 +20,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y los pro
 ---
 
 ## 🛠️ Habilidades y Tecnologías
-- **Lenguajes:** Java, Swift, Python, C.
+- **Lenguajes:** Java, Swift, Python, C, HTML.
 - **Herramientas:** Git,Xcode,AndroidStudio.
 - **Bases de datos:** MySQL.
   
