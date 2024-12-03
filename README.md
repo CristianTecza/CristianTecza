@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Cristian
 
-<!--
-**CristianTecza/CristianTecza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y los proyectos en los que estoy trabajando.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mí
+- 📍 Soy de **España**.
+- 🎓 Estudiante en **[CEV](https://www.cev.com/)**.
+- 🛠️ Trabajo como mozo de almacén por las tardes.
+- 🚀 Mi objetivo: **Estudiar en el extranjero y crecer profesionalmente en tecnología.**
+
+---
+
+## ⚡ Intereses
+- 💻 Desarrollo de aplicaciones (iOS con Swift).
+- ⚽ Fútbol, mi pasión desde la infancia.
+- 🌍 Viajar y explorar nuevas culturas.
+
+---
+
+## 📬 Conéctate conmigo
+- **GitHub:** [TuUsuario](https://github.com/TuUsuario)
+- **Correo:** tuemail@example.com
+
