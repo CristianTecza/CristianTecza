@@ -13,13 +13,25 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y los pro
 ---
 
 ## ⚡ Intereses
-- 💻 Desarrollo de aplicaciones .
+- 💻 Desarrollo de aplicaciones.
 - ⚽ Fútbol, mi pasión desde la infancia.
 - 🌍 Viajar y explorar nuevas culturas.
 
 ---
 
+## 🛠️ Habilidades y Tecnologías
+- **Lenguajes:** Java, Swift, Python, C.
+- **Herramientas:** Git,Xcode,AndroidStudio.
+- **Bases de datos:** MySQL.
+  
+---
+
 ## 📬 Conéctate conmigo
 - **GitHub:** [CristianTecza](https://github.com/CristianTecza)
 - **Correo:** Chteczagmail.com
+
+
+
+
+
 
