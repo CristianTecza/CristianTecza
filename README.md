@@ -36,6 +36,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y los pro
 ![CristianTecza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianTecza&show_icons=true&count_private=true&hide=prs)
 
 ---
+## 📊 Lenguajes más utilizados
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianTecza&layout=compact&theme=radical)
 
