@@ -30,6 +30,12 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y los pro
 - **GitHub:** [CristianTecza](https://github.com/CristianTecza)
 - **Correo:** Chteczagmail.com
 
+---
+
+## 📈 GitHub Stats
+![CristianTecza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianTecza&show_icons=true&count_private=true&hide=prs)
+
+---
 
 
 
