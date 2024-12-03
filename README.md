@@ -20,6 +20,6 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y los pro
 ---
 
 ## 📬 Conéctate conmigo
-- **GitHub:** [TuUsuario](https://github.com/CristianTecza)
+- **GitHub:** [CristianTecza](https://github.com/CristianTecza)
 - **Correo:** Chteczagmail.com
 
